@@ -1,4 +1,4 @@
-# EWB Phishing URL Awareness Checker
+# Phishing URL Awareness Checker
 
 ## Overview
 Phishing is a trick where criminals send fake links or messages to make people share passwords, card numbers or OTPs. This project is a small Python command-line tool that reads the text of a URL and points out six visible warning signs, such as an @ symbol, an IP-address hostname or a plain HTTP connection. It only reads the URL text and never opens the link, and "no warnings found" does not mean a link is safe.
